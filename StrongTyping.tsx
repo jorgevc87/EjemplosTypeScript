@@ -1,3 +1,5 @@
+import React from 'react';
+
 var test = "this is a string"
 
 console.log('test= $test')
